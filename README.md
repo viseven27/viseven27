@@ -3,6 +3,10 @@
 ## Aspiring Product Manager | iOS Developer | UX Researcher
 
 Final Year Computer Science Student who received a merit-based scholarship from BINUS University. Learning on the prestigious Apple Developer Academy. Enthusiast in Public Speaking and Business Case with 10+ experiences and awards. 
+
+<p align="justify">
+  Software engineering and product management with a keen interest in Artificial Intelligence and innovative solutions. I am passionate about leveraging technology to solve real-world problems and creating user-centric applications, especially in the realm of AI-powered and iOS-centric solutions.
+</p>
  
 <!--
 **viseven27/viseven27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
