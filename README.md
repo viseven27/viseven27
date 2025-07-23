@@ -1,6 +1,6 @@
 ## 🔵  Alvin Justine  🟡
 
-## Aspiring Product Manager | iOS Developer | UX Researcher
+# Aspiring Product Manager | iOS Developer | UX Researcher
 
 Final Year Computer Science Student who received a merit-based scholarship from BINUS University. Learning on the prestigious Apple Developer Academy. Enthusiast in Public Speaking and Business Case with 10+ experiences and awards. 
  
