@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Gambar Poster](https://drive.google.com/file/d/1zCq1R7Dm1NPO5vNHY9BZat38hjuTHxWi/view?usp=drive_link )
 <!--
 **viseven27/viseven27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
