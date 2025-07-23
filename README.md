@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Gambar Poster](https://drive.google.com/uc?export=view&id=1zCq1R7Dm1NPO5vNHY9BZat38hjuTHxWi)
+## 🔵 Alvin Justine 🟡
 
 <!--
 **viseven27/viseven27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
